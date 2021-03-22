@@ -45,6 +45,7 @@
   },
   "dependencies": {
     "@types/node": ">=8.1.0",
+    "node-fetch": "^2.6.1",
     "qs": "^6.6.0"
   },
   "license": "MIT",
